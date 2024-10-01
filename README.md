@@ -19,6 +19,12 @@ Removing at various places, running both pops, then running find with a number i
 Part 2- Stack
 
 The stack is implemented in the stack.cpp and stack.h files. The stack.h file has the declarations of the stack functions and how to use them. The file named DataStructStack.cpp has a main function that shows the operations of the functions. There is also a print function that allows the user to see the contents of the stack. The picture named StackPic shows the output of the main function. The main function further breaks down the output 
-in the comments.
+with comments.
+
+The output of main:
+Checks if the stack is empty, fills the stack with push, displays the avearge and top using the functions, pops one item, empties the stack with pop.
+The average and top function return 0 when the stack is empty. The error messsage is from the top function.
+![StackPic](https://github.com/user-attachments/assets/7f8d968e-44d5-4784-b30d-fa552f601e29)
+
 
 

@@ -4,7 +4,7 @@ The singly linked list is implemented in the SLL.cpp and SLL.h files. The SLL.h 
 
 Next is a break down of the sample screenshots. More detail can be found in comments in main in DataStructSLL.cpp.
 
-This picture shows how pop reacts to an empty list, pushes an pops one item at a time, then fills and then empties the list
+This picture shows how pop reacts to an empty list, pushes and pops one item at a time, then fills and then empties the list
 ![SSLpt1](https://github.com/user-attachments/assets/07779824-db8d-4950-93cc-ca54c11c8de7)
 
 Refilling the list with push front, then inserting in various places. Lastly calling remove with an invalid index.
